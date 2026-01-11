@@ -1,16 +1,53 @@
-## Hi there 👋
+# Hi, I'm Yoshua
 
-<!--
-**yoshtown/yoshtown** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Applied Machine Learning Engineer focused on:
+- Retrieval-Augmented Generation (RAG)
+- Local LLM systems
+- NLP & embeddings
+- End-to-end ML pipelines
 
-Here are some ideas to get you started:
+I build **practical ML systems**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Core Skills
+- Python, SQL
+- Scikit-learn, TensorFlow
+- LLMs (local + API-based)
+- RAG (LlamaIndex, embeddings, vector search)
+- Data pipelines & evaluation
+
+---
+
+## Featured Projects
+
+### Local RAG Chatbot
+**Local-first retrieval-augmented chatbot using custom documents**
+
+- Chunking & embedding pipeline
+- Vector search
+- Query engine abstraction
+- Designed for private data
+
+🔗 Repo: https://github.com/yoshtown/local-rag-chatbot
+
+---
+
+### Machine Learning Projects
+A collection of ML systems including:
+- Text vectorization (TF-IDF vs embeddings)
+- Classical ML models
+- Error analysis & evaluation
+
+🔗 Repo: https://github.com/yoshtown/guitar-lesson-level-prediction-project
+
+---
+
+## Portfolio Website
+https://yourusername.github.io
+
+---
+
+## Contact
+- GitHub: https://github.com/yoshtown
+- LinkedIn: https://www.linkedin.com/in/yoshua-isreal/
