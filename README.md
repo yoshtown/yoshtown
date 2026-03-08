@@ -9,7 +9,7 @@ I'm a self taught ml engineer who recently learned what machine learning even is
 * 🌍  I'm based in United States
 * 🖥️  See my portfolio at [MyPortfolio](http://yoshtown.github.io/)
 * ✉️  You can contact me at [yoshtown@gmail.com](mailto:yoshtown@gmail.com)
-* 🧠  I'm currently learning LLMs
+* 🧠  I'm currently learning MLOps
 * 👥  I'm looking to collaborate on Projects
 * 💬  Ask me about I can turn super saiyan but no one believes me.
 
